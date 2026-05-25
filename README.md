@@ -5,3 +5,4 @@ Apresentação
 Nome: Pedro Henrique
 Idade: 19 anos
 Jogo  preferido: Resident Evil
+Comida preferida: Carne
